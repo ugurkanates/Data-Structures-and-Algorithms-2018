@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="770.0">gtu.part2_searchinterface</node>
+    <node x="172.00000000000003" y="0.0">gtu.BinaryTree.Node</node>
+    <node x="0.0" y="487.5">gtu.part1_generictree</node>
+    <node x="332.0" y="464.0">gtu.part2</node>
+    <node x="219.50000000000003" y="290.0">gtu.BinaryTree</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="gtu.part2" target="gtu.BinaryTree">
+      <point x="-79.0" y="-130.5" />
+      <point x="411.0" y="439.0" />
+      <point x="374.0" y="439.0" />
+      <point x="51.5" y="62.0" />
+    </edge>
+    <edge source="gtu.BinaryTree" target="gtu.BinaryTree.Node">
+      <point x="-51.5" y="-62.0" />
+      <point x="271.0" y="265.0" />
+      <point x="284.875" y="265.0" />
+      <point x="-37.625" y="120.0" />
+    </edge>
+    <edge source="gtu.part1_generictree" target="gtu.BinaryTree.Node">
+      <point x="-78.0" y="-107.0" />
+      <point x="78.0" y="439.0" />
+      <point x="124.83333333333337" y="439.0" />
+      <point x="124.83333333333337" y="265.0" />
+      <point x="209.62500000000003" y="265.0" />
+      <point x="-112.875" y="120.0" />
+    </edge>
+    <edge source="gtu.BinaryTree.Node" target="gtu.BinaryTree">
+      <point x="37.625" y="120.0" />
+      <point x="360.125" y="265.0" />
+      <point x="374.0" y="265.0" />
+      <point x="51.5" y="-62.0" />
+    </edge>
+    <edge source="gtu.part1_generictree" target="gtu.BinaryTree">
+      <point x="78.0" y="-107.0" />
+      <point x="234.0" y="439.0" />
+      <point x="271.0" y="439.0" />
+      <point x="-51.5" y="62.0" />
+    </edge>
+    <edge source="gtu.part2" target="gtu.BinaryTree.Node">
+      <point x="79.0" y="-130.5" />
+      <point x="569.0" y="439.0" />
+      <point x="520.8333333333334" y="439.0" />
+      <point x="520.8333333333334" y="265.0" />
+      <point x="435.375" y="265.0" />
+      <point x="112.875" y="120.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.40000000000000013" x="-287.4285714285709" y="564.1230158730158" />
+  <SelectedNodes>
+    <node>gtu.part2_searchinterface</node>
+    <node>gtu.part1_generictree</node>
+    <node>gtu.part2</node>
+    <node>gtu.BinaryTree</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
